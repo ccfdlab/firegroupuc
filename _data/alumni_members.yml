@@ -1,140 +1,139 @@
-- name: Diego Calderón
-  photo: diego.jpg
-  role: MSc 2015, PhD 2019
-  education: Then a postdoc at Charles University, Prague
-  area: Now a postdoc at Hamburg Observatory
-  labels:
-    - type: website
-      website: https://calderond.github.io/
-    - type: ads
-      ads: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FMgG_N93RQbuiQcTwHzpnRQ)&sort=date%20desc%2C%20bibcode%20desc
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=IctqZOsAAAAJ&hl=en
-    - type: orcid
-      orcid: https://orcid.org/0000-0002-9019-9951
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Diego-Calderon-16
-    - type: linkedin
-      linkedin: https://cz.linkedin.com/in/diego-calder%C3%B3n-aa149b1b4
+- name: Sebastián Nash
+#  photo: diego.jpg
+  role: MSc 2023
+#  education: Now PhD student at PUC, Chile
+  area: Now a PhD Hydraulic Eng. at PUC, Chile
+#  labels:
+#    - type: website
+#      website: https://calderond.github.io/
+#    - type: ads
+#      ads: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FMgG_N93RQbuiQcTwHzpnRQ)&sort=date%20desc%2C%20bibcode%20desc
+#    - type: googlescholar
+#      googlescholar: https://scholar.google.com/citations?user=IctqZOsAAAAJ&hl=en
+#    - type: orcid
+#      orcid: https://orcid.org/0000-0002-9019-9951
+#    - type: researchgate
+#      researchgate: https://www.researchgate.net/profile/Diego-Calderon-16
+#    - type: linkedin
+#      linkedin: https://cz.linkedin.com/in/diego-calder%C3%B3n-aa149b1b4
       
 
 
-- name: Xian Chen
-  haswww: 1
-  webpage: https://kiaa.pku.edu.cn/info/1010/2663.htm
-  photo: xian.jpg
-  role: Postdoc 2015-2016
-  education: Now a professor at Peking University
-  labels:
-    - type: website
-      website: https://kiaa.pku.edu.cn/info/1010/2663.htm
-    - type: ads
-      ads: https://ui.adsabs.harvard.edu/public-libraries/wefhFanSRAKcJd5WGRoDZg
-    - type: orcid
-      orcid: https://orcid.org/0000-0003-3950-9317
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Xian-Chen-12
+- name: Francisco Montero
+#  haswww: 1
+#  webpage: https://kiaa.pku.edu.cn/info/1010/2663.htm
+#  photo: xian.jpg
+  role: PhD student 2022
+  education: Now a assistant professor at Universidad de las Fuerzas Armadas ESPE, Ecuador
+#    - type: website
+#      website: https://kiaa.pku.edu.cn/info/1010/2663.htm
+#    - type: ads
+#      ads: https://ui.adsabs.harvard.edu/public-libraries/wefhFanSRAKcJd5WGRoDZg
+#    - type: orcid
+#      orcid: https://orcid.org/0000-0003-3950-9317
+#    - type: researchgate
+#      researchgate: https://www.researchgate.net/profile/Xian-Chen-12
 
 
 
-- name: Nicolás Cuello
-  haswww: 1
-  webpage: https://cuellonicolas.wixsite.com/astrophysics
-  photo: nicolas.jpg
-  role: Postdoc 2016-2020
-  education: Then a Marie-Curie fellow at IPAG, Grenoble
-  area: Now a professor at Université Grenoble Alpes
-  labels:
-    - type: website
-      website: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=Ww3I55YAAAAJ&hl=es
-    - type: orcid
-      orcid: https://orcid.org/0000-0003-3713-8073
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Nicolas-Cuello
-    - type: linkedin
-      linkedin: https://fr.linkedin.com/in/nicolas-cuello-astrophysics
+#- name: Nicolás Cuello
+#  haswww: 1
+#  webpage: https://cuellonicolas.wixsite.com/astrophysics
+#  photo: nicolas.jpg
+#  role: Postdoc 2016-2020
+#  education: Then a Marie-Curie fellow at IPAG, Grenoble
+#  area: Now a professor at Université Grenoble Alpes
+#  labels:
+#    - type: website
+#      website: https://nicolascuello.github.io/Stellar-MADE/nicolas-cuello
+#    - type: googlescholar
+#      googlescholar: https://scholar.google.com/citations?user=Ww3I55YAAAAJ&hl=es
+#    - type: orcid
+#      orcid: https://orcid.org/0000-0003-3713-8073
+#    - type: researchgate
+#      researchgate: https://www.researchgate.net/profile/Nicolas-Cuello
+#    - type: linkedin
+#      linkedin: https://fr.linkedin.com/in/nicolas-cuello-astrophysics
 
 
 
-- name: Luciano del Valle
-  photo: luciano.jpg
+#- name: Luciano del Valle
+#  photo: luciano.jpg
 #  role: Postdoctoral researcher, NPF & PUC
-  haswww: 0
-  webpage: 
+#  haswww: 0
+#  webpage: 
 #  email: ldelvalleb@astro.puc.cl
 #  education: PhD, Univ de Chile
 #  area: Solar System N-body - Circumbinary discs
-  role: Postdoc 2019-2022
-  labels:
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=D_2EijAAAAAJ&hl=es
-    - type: researchgate
-      researchgate: https://www.researchgate.net/profile/Luciano-Del-Valle
-    - type: academia
-      academia: https://uc-cl.academia.edu/LucianodelValle
+#  role: Postdoc 2019-2022
+#  labels:
+#    - type: googlescholar
+#      googlescholar: https://scholar.google.com/citations?user=D_2EijAAAAAJ&hl=es
+#    - type: researchgate
+#      researchgate: https://www.researchgate.net/profile/Luciano-Del-Valle
+#    - type: academia
+#      academia: https://uc-cl.academia.edu/LucianodelValle
 
 
 
-- name: Alex Dunhill
-  haswww: 1
-  webpage: http://www.acdunhill.com/
-  photo: alex.jpg
-  role: Postdoc 2013-2015
-  education:  Then a postdoc at UCLAN, Preston
-  area: Now a a data scientist
-  labels:
-    - type: website
-      website: https://www.acdunhill.com/
-    - type: linkedin
-      linkedin: https://www.linkedin.com/in/alex-dunhill-0ab031160/
+#- name: Alex Dunhill
+#  haswww: 1
+#  webpage: http://www.acdunhill.com/
+#  photo: alex.jpg
+#  role: Postdoc 2013-2015
+#  education:  Then a postdoc at UCLAN, Preston
+#  area: Now a a data scientist
+#  labels:
+#    - type: website
+#      website: https://www.acdunhill.com/
+#    - type: linkedin
+#      linkedin: https://www.linkedin.com/in/alex-dunhill-0ab031160/
    
 
 
-- name: Virginie Faramaz
-  haswww: 1
-  webpage: http://virginie-faramaz.com/
-  photo: virginie.jpg
-  role: Postdoc 2014-17
-  education: Then a postdoc at JPL, Pasadena
-  area: Now a professor at the University of Arizona
-  labels:
-    - type: website
-      website: http://virginie-faramaz.com/
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=hnZeCwgAAAAJ
-    - type: linkedin
-      linkedin: https://www.linkedin.com/in/virginie-faramaz-05300a1a5
+#- name: Virginie Faramaz
+#  haswww: 1
+#  webpage: http://virginie-faramaz.com/
+#  photo: virginie.jpg
+#  role: Postdoc 2014-17
+#  education: Then a postdoc at JPL, Pasadena
+#  area: Now a professor at the University of Arizona
+#  labels:
+#    - type: website
+#      website: http://virginie-faramaz.com/
+#    - type: googlescholar
+#      googlescholar: https://scholar.google.com/citations?user=hnZeCwgAAAAJ
+#    - type: linkedin
+#      linkedin: https://www.linkedin.com/in/virginie-faramaz-05300a1a5
 
 
 
-- name: Camilo Fontecilla
-  photo: camilo.jpg
+#- name: Camilo Fontecilla
+#  photo: camilo.jpg
 #  role: PhD student, PUC
-  haswww: 1
-  webpage: https://cl.linkedin.com/in/cjfontec
-  role: BSc 2014, MSc 2017, PhD 2022
-  education: Now a data scientist
+#  haswww: 1
+#  webpage: https://cl.linkedin.com/in/cjfontec
+#  role: BSc 2014, MSc 2017, PhD 2022
+#  education: Now a data scientist
 #  email: cjfontec@uc.cl
 #  education:  MSc in Astrophysics, PUC
 #  area: Black holes and circumbinary discs
-  labels:
-    - type: linkedin
-      linkedin: https://cl.linkedin.com/in/cjfontec
+#  labels:
+#    - type: linkedin
+#      linkedin: https://cl.linkedin.com/in/cjfontec
 
 
 
-- name: Sofía Gallego
-  haswww: 1
-  webpage: https://sofiagallego.com/
-  photo: sofia.jpg
-  role: BSc 2012
-  education: Then MSc at PUC and PhD at ETH, Zürich
-  area: Now a postdoc at the University of Paris Cité
-  labels:
-    - type: website
-      website: https://sofiagallego.com/
+#- name: Sofía Gallego
+#  haswww: 1
+#  webpage: https://sofiagallego.com/
+#  photo: sofia.jpg
+#  role: BSc 2012
+#  education: Then MSc at PUC and PhD at ETH, Zürich
+#  area: Now a postdoc at the University of Paris Cité
+#  labels:
+#    - type: website
+#      website: https://sofiagallego.com/
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?hl=en&user=2rU-igEAAAAJ
     - type: researchgate
